@@ -1,0 +1,14 @@
+{
+    "mainfest_version": 3,
+    "version": "1.0",
+    "name": "Leads tracker",
+    "action": {
+        "default_popup": "chind.html",
+        "default_icon":
+        "icon.jfif"
+    },
+    "permissions": [
+        "tabs"
+    ]
+
+}
